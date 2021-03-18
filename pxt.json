@@ -1,0 +1,22 @@
+{
+    "name": "Gamer:bit Experiment 3:  Gold Drop Game",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "gamerbit": "github:sparkfun/pxt-gamer-bit#v0.0.8",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
